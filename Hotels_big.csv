@@ -1,0 +1,81 @@
+NumHo,NomHo,RueAdrHo,VilleHo,NbEtoilesHo
+1,Hôtel Étoile Bordeaux,23 Rue du Port,Bordeaux,3
+2,Hôtel Grand Toulouse,98 Rue Sainte-Catherine,Toulouse,4
+3,Hôtel Grand Tours,41 Boulevard Saint-Germain,Tours,3
+4,Hôtel Montmartre Tours,63 Boulevard Saint-Germain,Tours,2
+5,Hôtel Central Caen,225 Avenue de la République,Caen,3
+6,Hôtel Lumière Paris,188 Place Bellecour,Paris,2
+7,Hôtel Central Lyon,171 Boulevard Saint-Germain,Lyon,3
+8,Hôtel Étoile Marseille,234 Cours Mirabeau,Marseille,4
+9,Hôtel Riviera Le Havre,215 Rue de la Paix,Le Havre,4
+10,Hôtel Panorama Tours,206 Place Bellecour,Tours,3
+11,Hôtel Jardin Rome,135 Avenue de la République,Rome,4
+12,Hôtel Grand Metz,102 Avenue des Champs,Metz,4
+13,Hôtel Opéra Luxembourg,176 Rue Sainte-Catherine,Luxembourg,4
+14,Hôtel Riviera Rome,134 Rue d'Italie,Rome,3
+15,Hôtel Grand Luxembourg,217 Rue du Port,Luxembourg,4
+16,Hôtel Riviera Lille,169 Quai des Chartrons,Lille,3
+17,Hôtel Panorama Tours,101 Avenue des Champs,Tours,2
+18,Hôtel Opéra Limoges,147 Rue du Port,Limoges,3
+19,Hôtel Capitole Dijon,23 Rue des Fleurs,Dijon,4
+20,Hôtel Lumière Paris,59 Cours Mirabeau,Paris,4
+21,Hôtel Jardin Bordeaux,74 Place Bellecour,Bordeaux,5
+22,Hôtel Montmartre Berlin,60 Rue Sainte-Catherine,Berlin,3
+23,Hôtel Azur Grenoble,138 Place Bellecour,Grenoble,3
+24,Hôtel Grand Limoges,3 Boulevard Saint-Germain,Limoges,3
+25,Hôtel Étoile Marseille,205 Rue Nationale,Marseille,4
+26,Hôtel Jardin Caen,108 Rue de la Paix,Caen,2
+27,Hôtel Panorama Nice,91 Boulevard Carnot,Nice,2
+28,Hôtel Grand Caen,204 Rue Sainte-Catherine,Caen,3
+29,Hôtel Montmartre Lisbonne,163 Cours Mirabeau,Lisbonne,2
+30,Hôtel Étoile Metz,245 Place Bellecour,Metz,2
+31,Hôtel Lumière Porto,107 Rue Nationale,Porto,2
+32,Hôtel Azur Berlin,227 Cours Mirabeau,Berlin,2
+33,Hôtel Lumière Montpellier,172 Rue Paradis,Montpellier,4
+34,Hôtel Grand Berlin,195 Rue Sainte-Catherine,Berlin,3
+35,Hôtel Azur Nancy,234 Rue d'Italie,Nancy,4
+36,Hôtel Opéra Clermont-Ferrand,95 Boulevard Saint-Germain,Clermont-Ferrand,4
+37,Hôtel Panorama Tours,31 Rue d'Italie,Tours,3
+38,Hôtel Opéra Barcelone,111 Rue de la Paix,Barcelone,4
+39,Hôtel Jardin Limoges,6 Rue Nationale,Limoges,3
+40,Hôtel Étoile Amiens,110 Rue du Port,Amiens,4
+41,Hôtel Panorama Rennes,84 Rue des Fleurs,Rennes,4
+42,Hôtel Azur Porto,88 Rue Sainte-Catherine,Porto,2
+43,Hôtel Vieux-Port Cannes,229 Avenue de la République,Cannes,3
+44,Hôtel Panorama Saint-Étienne,63 Rue Paradis,Saint-Étienne,5
+45,Hôtel Opéra Le Havre,12 Rue Sainte-Catherine,Le Havre,2
+46,Hôtel Panorama Dijon,52 Rue du Port,Dijon,5
+47,Hôtel Vieux-Port Marseille,69 Avenue de la République,Marseille,3
+48,Hôtel Lumière Rome,22 Rue Nationale,Rome,4
+49,Hôtel Panorama Strasbourg,35 Rue du Port,Strasbourg,5
+50,Hôtel Montmartre Bruxelles,102 Rue du Port,Bruxelles,2
+51,Hôtel Riviera Madrid,88 Cours Mirabeau,Madrid,5
+52,Hôtel Azur Luxembourg,157 Rue d'Italie,Luxembourg,2
+53,Hôtel Capitole Rome,249 Place Bellecour,Rome,3
+54,Hôtel Central Barcelone,177 Rue de la Paix,Barcelone,3
+55,Hôtel Lumière Limoges,246 Rue d'Italie,Limoges,4
+56,Hôtel Lumière Metz,56 Rue du Port,Metz,3
+57,Hôtel Azur Dijon,98 Rue du Port,Dijon,2
+58,Hôtel Opéra Orléans,129 Quai des Chartrons,Orléans,4
+59,Hôtel Panorama Grenoble,97 Rue Nationale,Grenoble,2
+60,Hôtel Central Clermont-Ferrand,233 Quai des Chartrons,Clermont-Ferrand,4
+61,Hôtel Lumière Rome,15 Cours Mirabeau,Rome,2
+62,Hôtel Étoile Aix-en-Provence,28 Place Bellecour,Aix-en-Provence,4
+63,Hôtel Vieux-Port Metz,166 Place Bellecour,Metz,3
+64,Hôtel Capitole Amiens,147 Rue Nationale,Amiens,3
+65,Hôtel Panorama Limoges,148 Avenue des Champs,Limoges,5
+66,Hôtel Grand Tours,47 Avenue Victor Hugo,Tours,2
+67,Hôtel Montmartre Bruxelles,34 Place Bellecour,Bruxelles,4
+68,Hôtel Panorama Genève,37 Rue Nationale,Genève,4
+69,Hôtel Capitole Angers,222 Rue de la Paix,Angers,3
+70,Hôtel Étoile Rome,181 Avenue de la République,Rome,5
+71,Hôtel Lumière Paris,187 Cours Mirabeau,Paris,3
+72,Hôtel Étoile Nice,73 Boulevard Saint-Germain,Nice,5
+73,Hôtel Opéra Avignon,12 Avenue de la République,Avignon,2
+74,Hôtel Vieux-Port Rennes,12 Quai des Chartrons,Rennes,4
+75,Hôtel Vieux-Port Amsterdam,78 Place Bellecour,Amsterdam,4
+76,Hôtel Vieux-Port Limoges,73 Rue Sainte-Catherine,Limoges,2
+77,Hôtel Capitole Amiens,140 Rue Sainte-Catherine,Amiens,3
+78,Hôtel Panorama Dijon,241 Avenue des Champs,Dijon,2
+79,Hôtel Opéra Rouen,205 Rue du Port,Rouen,3
+80,Hôtel Capitole Bordeaux,111 Rue du Port,Bordeaux,4

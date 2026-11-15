@@ -1,0 +1,103 @@
+{
+  "intents": [
+    {
+      "tag": "salutation",
+      "patterns": [
+        "Bonjour", "Salut", "Coucou", "Hé", "Hey", "Bonsoir", "Hello", "Hi",
+        "slt", "cc", "hola", "yo", "Y'a quelqu'un ?", "Il y a quelqu'un ?", 
+        "Allô", "Cava ?", "cv ?", "comment ça va", "comment vas-tu", 
+        "bonjour bot", "salut le bot", "Enchanté", "Heeey", "Bon matin", "Bonne après-midi"
+      ],
+      "responses": [
+        "Bonjour  ! Comment puis-je vous aider aujourd’hui ?",
+        "Salut ! Prêt à trouver un hôtel ?",
+        "Bienvenue ! Donnez-moi une ville, des dates et un budget et je m’occupe du reste.",
+        "Coucou ! Je suis là pour vos réservations d’hôtel.",
+        "Bonsoir ! Vous cherchez un hôtel pour quelle destination ?"
+      ]
+    },
+    {
+      "tag": "au revoir",
+      "patterns": [
+        "Au revoir", "À plus tard", "Bonne soirée", "Bye", "A plus", 
+        "Bonne journée", "Ciao", "A bientôt", "Merci, au revoir", "See you", 
+        "Goodbye", "Adios", "Ok merci salut"
+      ],
+      "responses": [
+        "Au revoir  ! À très vite.",
+        "Bonne journée ! N’hésitez pas à revenir si vous voulez chercher un hôtel.",
+        "À bientôt ! Je reste dispo si besoin.",
+        "Ciao ! Bon séjour ",
+        "Merci pour votre visite, au plaisir de vous aider encore !"
+      ]
+    },
+    {
+      "tag": "merci",
+      "patterns": [
+        "Merci", "Merci beaucoup", "Je vous remercie", "C'est gentil", 
+        "Merci pour l'aide", "Trop sympa", "Merci infiniment", "Super merci", 
+        "Top merci", "Merci bien", "Un grand merci", "Merciii", 
+        "Thx", "Thanks", "Thank you"
+      ],
+      "responses": [
+        "Avec plaisir ",
+        "De rien ! Je suis là pour ça.",
+        "Pas de souci ! Ravi d’avoir pu aider.",
+        "Toujours un plaisir d’aider ",
+        "Merci à vous aussi !"
+      ]
+    },
+    {
+      "tag": "nom_bot",
+      "patterns": [
+        "Quel est ton nom ?", "Tu t'appelles comment ?", "Qui es-tu ?", 
+        "Dis-moi ton nom", "C'est quoi ton prénom ?", "Comment tu t'appelles ?", 
+        "Qui est là ?", "Qui me parle ?", "C'est quoi ce bot ?", "Tu es qui ?"
+      ],
+      "responses": [
+        "Je suis *HotelBot*, votre assistant pour la recherche d’hôtels 🏨.",
+        "On m’appelle *HotelBot*, je vous aide à réserver vos séjours.",
+        "Je suis un chatbot spécialisé dans la réservation d’hôtels.",
+        "Je suis un assistant IA conçu pour vous aider à trouver un hébergement rapidement."
+      ]
+    },
+    {
+      "tag": "aide",
+      "patterns": [
+        "Aide", "J'ai besoin d'aide", "Qu'est-ce que tu peux faire ?", 
+        "Comment ça marche ?", "Explique-moi", "Tu fais quoi ?", 
+        "Comment réserver ?", "Aide-moi", "Besoin d’aide", "Guide-moi", 
+        "Je comprends pas", "Tu peux m'aider ?", "Je suis perdu", "Comment ça fonctionne ?"
+      ],
+      "responses": [
+        "Je peux vous aider à trouver un hôtel en fonction de la **ville**, du **budget** et des **dates** .",
+        "Dites-moi simplement la ville, vos dates de séjour et un budget, et je vous propose des hôtels.",
+        "Mon rôle est de vous aider à réserver : indiquez-moi où, quand et combien .",
+        "Je peux chercher des hôtels pour vous. Il suffit de me donner la destination et les dates."
+      ]
+    },
+    {
+      "tag": "recherche_hotel",
+      "patterns": [
+        "Je veux un hôtel à Paris",
+        "Cherche moi un hôtel à Lyon",
+        "Quels sont les hôtels disponibles du 10/11/2025 au 12/11/2025 ?",
+        "Je veux un hôtel 3 étoiles",
+        "Un hôtel 4 étoiles à Marseille",
+        "Je cherche un hôtel à moins de 100€",
+        "Un hôtel pas cher à Paris",
+        "Une suite à Strasbourg",
+        "Réserver une chambre double à Lyon du 5 au 7 décembre",
+        "Quels hôtels sont dispo demain ?",
+        "Je veux savoir tous les hôtels",
+        "Lister toutes les villes disponibles",
+        "Je veux le prix d'une suite à Bordeaux"
+      ],
+      "responses": [
+        "Je lance la recherche d’hôtels selon vos critères...",
+        "Je cherche les hôtels qui correspondent à votre demande...",
+        "Un instant, je consulte la base de données..."
+      ]
+    }
+  ]
+}
